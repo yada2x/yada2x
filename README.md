@@ -1,5 +1,5 @@
 # hey! I'm Lawrence 😼
-currently building for start-ups with Lyra, ask me anything!
+i make things
 
 ## my interests
 - programming
